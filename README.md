@@ -1,2 +1,1 @@
-My first readme
-Updating my readme in a clueless state
+Updating my readme in a clueless state.
